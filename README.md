@@ -11,3 +11,22 @@ This is my solution to all the programming assignments and quizzes of Machine-Le
 
 ## References
 [[1] Machine Learning - Stanford University](https://www.coursera.org/learn/machine-learning)
+
+
+
+## Related Resources
+[[1] Machine Learning - Stanford University](https://www.coursera.org/learn/machine-learning)
+
+
+## Projects To Considier and Beyond
+[[1] Machine Learning - Stanford University](https://www.coursera.org/learn/machine-learning)
+
+
+
+## Frameworks
+[[1] Machine Learning - Stanford University](https://www.coursera.org/learn/machine-learning)
+
+
+## Competitiors
+[[1] https://www.udacity.com/course/deep-learning--ud730
+[[2]] https://www.udacity.com/course/deep-learning-nanodegree--nd101
