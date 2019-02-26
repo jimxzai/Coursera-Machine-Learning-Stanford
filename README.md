@@ -28,7 +28,7 @@ Spring 2018
 
 [[3]] BRET
 
-[[4]] Dectron from Fackbook AI
+[[4]] Dectron from Fackbook AI  https://github.com/jimxzai/Detectron
 
 
 
