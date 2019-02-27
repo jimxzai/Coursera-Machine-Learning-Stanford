@@ -14,6 +14,7 @@ This is my solution to all the programming assignments and quizzes of Machine-Le
 
 [[2]] Deep learning concerpts in visualization: http://colah.github.io/
 
+[[3]] Stanford DL tutorial: http://deeplearning.stanford.edu/tutorial/
 
 ## Related Resources
 [[1]] CS229 machine learning, https://see.stanford.edu/course/cs229 the pre-requisite for Feifei Li http://cs231n.stanford.edu/   
