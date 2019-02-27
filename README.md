@@ -15,10 +15,11 @@ This is my solution to all the programming assignments and quizzes of Machine-Le
 
 
 ## Related Resources
-[[1]] Feifei Li http://cs231n.stanford.edu/ CS231n: Convolutional Neural Networks for Visual Recognition
-Spring 2018
+[[1]] CS229 machine learning, https://see.stanford.edu/course/cs229 the pre-requisite for Feifei Li http://cs231n.stanford.edu/   
 
-[[2]] machine learning, https://see.stanford.edu/course/cs229 the pre-requisite for Feifei Li http://cs231n.stanford.edu/ CS231n  
+
+[[2]] CS231n Feifei Li http://cs231n.stanford.edu/ CS231n: Convolutional Neural Networks for Visual Recognition
+Spring 2018
 
 [[3]] CS224n: Natural Language Processing with Deep Learning http://web.stanford.edu/class/cs224n/
 
