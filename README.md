@@ -20,6 +20,7 @@ Spring 2018
 
 [[2]] machine learning, https://see.stanford.edu/course/cs229 the pre-requisite for Feifei Li http://cs231n.stanford.edu/ CS231n  
 
+[[3]] CS224n: Natural Language Processing with Deep Learning http://web.stanford.edu/class/cs224n/
 
 ## Projects To Considier and Beyond
 [[1]] YOLO
