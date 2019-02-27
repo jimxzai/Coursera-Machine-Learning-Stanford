@@ -12,6 +12,7 @@ This is my solution to all the programming assignments and quizzes of Machine-Le
 ## References
 [[1]] Machine Learning - Stanford University](https://www.coursera.org/learn/machine-learning)
 
+[[2]] Deep learning concerpts in visualization: http://colah.github.io/
 
 
 ## Related Resources
@@ -32,6 +33,7 @@ Spring 2018
 
 [[4]] Dectron from Fackbook AI  https://github.com/jimxzai/Detectron
 
+[[5]] Pandas: 10 Minutes to pandas, http://pandas.pydata.org/pandas-docs/stable/getting_started/10min.html
 
 
 
