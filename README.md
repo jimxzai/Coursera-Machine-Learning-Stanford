@@ -41,7 +41,8 @@ Spring 2018
 
 
 ## Frameworks
-[[1]] TensorFlow, TensorFlow Lite; https://github.com/machinelearningmindset/TensorFlow-Course
+[[1]] TensorFlow, TensorFlow Lite; https://github.com/machinelearningmindset/TensorFlow-Course 
+https://github.com/sjchoi86/Tensorflow-101
 
 [[2]] Keras;
 
