@@ -50,7 +50,6 @@ https://github.com/sjchoi86/Tensorflow-101
 [[4]] MxNet;
 
 
-
 ## Competitiors
 [[1]] https://www.udacity.com/course/deep-learning--ud730
 
